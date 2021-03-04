@@ -67,6 +67,3 @@ model.save("jy_817.h5")
 
 # %%
 model=tf.keras.models.load_model("jy2.h5")
-
-
-# %%
